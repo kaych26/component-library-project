@@ -1,6 +1,4 @@
 import React from "react";
-// import "./Form.css";
-// This is a functional component - just sent up a little differently as an arrow function!
 
 const Input = props => (
   <>
@@ -8,12 +6,11 @@ const Input = props => (
     <input
       name={props.label}
       label={props.label}
-      placeholder={props.label}
+      placeholder={props.placeholder}
       className={props.type}
     />
   </>
 );
-
 
 export default Input;
 
