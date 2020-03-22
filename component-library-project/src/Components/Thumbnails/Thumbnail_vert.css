@@ -2,7 +2,7 @@
   display: none;
 }
 .mainImage:hover {
-  display:none;
+  display: none;
 }
 .mainImage:hover ~ .hoverImage {
   display: block;

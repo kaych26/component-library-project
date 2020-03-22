@@ -22,13 +22,13 @@ class Counter extends Component {
     return (
       <div>
         {/* <h1>Count: {this.state.count}</h1> */}
-        <button
+        <button 
           onClick={this.state.count < this.props.maxValue && this.increaseCount}
         >
           +
         </button>
         <span>{this.state.count}</span>
-        <button
+        <button 
           onClick={this.state.count > this.props.minValue && this.decreaseCount}
         >
           -

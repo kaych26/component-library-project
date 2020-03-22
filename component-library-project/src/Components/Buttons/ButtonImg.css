@@ -1,0 +1,43 @@
+.addToCart-class {
+  display: block;
+  border-radius: 2px;
+  height: 48px;
+  width: 150px;
+  padding: 0;
+}
+.addToCart-class:hover {
+  border: 1px solid blue;
+}
+
+.addToFovorite-class {
+  display: block;
+  border-radius: 2px;
+  height: 48px;
+  width: 183px;
+  padding: 0;
+}
+.addToFovorite-class:hover {
+  border: 1px solid blue;
+}
+
+.heart-class {
+  display: block;
+  border-radius: 2px;
+  height: 48px;
+  width: 48px;
+  padding: 0;
+}
+.heart-class:hover {
+  border: 1px solid blue;
+}
+
+.cart-class {
+  display: block;
+  border-radius: 2px;
+  height: 48px;
+  width: 48px;
+  padding: 0;
+}
+.cart-class:hover {
+  border: 1px solid blue;
+}

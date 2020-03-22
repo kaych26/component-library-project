@@ -6,6 +6,6 @@ import HoverPicture from "../../Images/laptop_info_hover.png";
 
 import "./Thumbnail_vert.css";
 
-storiesOf("Thumbnails", module).add("Thumbnails", () => (
+storiesOf("Thumbnails", module).add("Thumbnail_1", () => (
   <Thumbnail mainPicture={Picture1} hoverPicture={HoverPicture} />
 ));

@@ -4,7 +4,7 @@ import { storiesOf } from "@storybook/react";
 import Input from "./Input";
 import "./Input.css";
 
-storiesOf("Forms", module)
+storiesOf("Inputs", module)
   .add("Input small", () => (
     <Input label="Email" placeholder="Email" type="input-small" />
   ))

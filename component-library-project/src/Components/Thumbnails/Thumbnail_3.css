@@ -1,0 +1,15 @@
+.image-class:hover {
+  border: 2px solid blue;
+}
+
+.image-class2:hover {
+  background-color: rgb(185, 221, 233);
+}
+
+.image-class3:hover {
+  border: 2px solid blue;
+}
+
+.image-class4:hover {
+  border: 2px solid blue;
+}

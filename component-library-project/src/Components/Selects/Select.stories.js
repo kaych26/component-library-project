@@ -11,7 +11,7 @@ import "./Select.css";
 //   </>
 // );
 
-storiesOf("Forms", module)
+storiesOf("Select", module)
   .add("Select large", () => <Select type="select-large" />)
   .add("Select medium", () => <Select type="select-medium" />)
   .add("Select small", () => <Select type="select-small" />);
